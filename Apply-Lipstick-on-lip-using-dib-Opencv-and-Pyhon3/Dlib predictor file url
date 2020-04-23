@@ -1,0 +1,6 @@
+# Dlib predictor file url
+## Download and unzip the .dat file. For downloading use below url.
+
+```bash
+http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+```
