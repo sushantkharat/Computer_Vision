@@ -1,4 +1,4 @@
-# Apply_Lipstick_on_lip_using_dib_Opencv_and_Pyhon3.
+# Apply Lipstick on lip using dlib Opencv and Python3.
 
 ## Libraries used:
 --> dlib
